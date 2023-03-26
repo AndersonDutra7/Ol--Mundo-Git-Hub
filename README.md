@@ -1,3 +1,3 @@
 # Olá, Mundo Git Hub ...
  Primeiro Repositório Versionado
- Olá, Mundo Git Hub, estou aprendendo Git e Git Hub com o Gustavo Guanabara e Titione Amorin. Grato!!!
+ Olá, Mundo Git Hub, estou aprendendo Git e Git Hub com o Gustavo Guanabara. Grato!!!
