@@ -15,11 +15,11 @@ Primeiro Repositório Versionado
 1. ~~Riscado~~
 ***
 ### Criando títulos
-# Título Nível 01
-## Título Nível 02
+1. # Título Nível 01
+2. ## Título Nível 02
 (Criar uma linha abaixo do título)
 ___
-### Título Nível 03 
+3. ### Título Nível 03 
 (Outra forma de criar uma linha abaixo do título)
 ***
 ### Misturando Configurações
@@ -38,5 +38,15 @@ ___
    * Teste 02.1
    * Teste 02.2
 * Teste 03   
- 
+***
+### Criar Lista de Tarefas
+- [x] Tarefa 01
+- [x] Tarefa 02
+- [ ] Tarefa 03
+- [ ] Tarefa 04
+***
+### Inserir Imagens
+[Gremio](https://user-images.githubusercontent.com/128000302/230811812-4d5075a8-cd4e-4d70-83a0-d430d0ee8468.PNG)
+***
+### Inserir Links
  
