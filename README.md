@@ -46,7 +46,7 @@ ___
 - [ ] Tarefa 04
 ***
 ### Inserir Imagens
-[Gremio](https://user-images.githubusercontent.com/128000302/230811812-4d5075a8-cd4e-4d70-83a0-d430d0ee8468.PNG)
+1. ![Gremio](https://user-images.githubusercontent.com/128000302/230811812-4d5075a8-cd4e-4d70-83a0-d430d0ee8468.PNG)
 ***
 ### Inserir Links
- 
+1. [Acesse meu Git Hub](https://github.com/AndersonDutra7/)
